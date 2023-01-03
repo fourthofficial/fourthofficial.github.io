@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
 
 body {
-    font-family: 'Martian Mono', monospace;
+    font-family: 'Cardo', serif;
 
     div.fixed {
       position: fixed;
@@ -12,8 +12,15 @@ body {
 }
 
 h1 {
-    font-family: 'Cardo', serif;
-    font-size: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-size: 80px;
+
+    .center {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      text-align: center;
+    }
 }
 
 p {
