@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+
 body {
     font-family: 'Martian Mono', monospace;
-    
+
     div.fixed {
       position: fixed;
       bottom: 50%;
@@ -9,7 +12,7 @@ body {
 }
 
 h1 {
-    font-family: 'Martian Mono', monospace;
+    font-family: 'Cardo', serif;
     font-size: 30px;
 }
 
