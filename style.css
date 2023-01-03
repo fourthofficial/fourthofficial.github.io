@@ -1,16 +1,16 @@
 body {
-  .flex-container {
-  display: flex;
-
-  /*horizontal center*/
-  justify-content: center;
-  /*vertical center*/
-  align-items: center;
-  }
+    font-family: 'Martian Mono', monospace;
+    
+    div.fixed {
+      position: fixed;
+      bottom: 50%;
+      left: 50%;
+    }
 }
 
 h1 {
-  font-size: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-size: 30px;
 }
 
 p {
