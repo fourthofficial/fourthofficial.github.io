@@ -13,13 +13,15 @@ body {
 
 h1 {
     font-family: 'Martian Mono', monospace;
-    font-size: 80px;
 
     .center {
-      position: absolute;
-      top: 50%;
-      width: 100%;
       text-align: center;
+      font-size: 80px;
+    }
+
+    .link {
+      padding-top: 30px;
+      padding-bottom: 30px;
     }
 }
 
