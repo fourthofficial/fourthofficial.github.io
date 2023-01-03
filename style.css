@@ -5,7 +5,7 @@ body {
     background: #f5faf6;
 }
 
-#header {
+h1 {
     font-family: 'Martian Mono', monospace;
     font-size: 40px;
     display: flex;
