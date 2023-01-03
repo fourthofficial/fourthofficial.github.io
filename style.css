@@ -7,9 +7,10 @@
     text-align: center;
 }
 
-#links {
+.links {
     font-family: 'Cardo', serif;
     font-size: 15px;
+    display: inline;
     text-align: center;
 }
 
