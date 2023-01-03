@@ -4,14 +4,12 @@
 #header {
     font-family: 'Martian Mono', monospace;
     font-size: 40px;
-    justify-content:center;
-    align-items:center;
+    text-align: center;
 }
 
-.link-text {
+#links {
     font-family: 'Cardo', serif;
     font-size: 15px;
-    justify-content:center;
-    align-items:center;
+    text-align: center;
 }
 
